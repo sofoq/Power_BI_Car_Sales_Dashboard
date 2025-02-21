@@ -18,11 +18,6 @@ The DETAILS sheet provides in-depth sales information, including breakdowns by m
 ## 📂 Dataset
 The dataset includes car sales records from 2022 and 2023.
 
-## 🛠️ How to Use
-- Download the Power BI file (.pbix) from this repository.
-- Open it using Power BI Desktop.
-- Explore the dashboards and insights.
-
 ## 📸 Screenshots  
 
 ### Overview Dashboard  
@@ -32,7 +27,7 @@ The dataset includes car sales records from 2022 and 2023.
 ![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
 
 
-# 👤 Author
-- Sofo Qaadze
-- 📧 sqaadze2000@gmail.com
-- 🔗 https://www.linkedin.com/in/sofo-qaadze-ba7895205/
+👨‍💻 **Author**  
+Sofo Qaadze  
+📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
+🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
