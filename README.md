@@ -23,7 +23,7 @@ The dataset includes car sales records from 2022 and 2023.
 - Open it using Power BI Desktop.
 - Explore the dashboards and insights.
 
-📸 Screenshots  
+## 📸 Screenshots  
 
 ### Overview Dashboard  
 ![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
