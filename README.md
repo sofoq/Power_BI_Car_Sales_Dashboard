@@ -26,7 +26,7 @@ Explore the dashboards and insights.
 ![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
 
 ### Details Dashboard  
-![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
+
 
 👤 Author
 Sofo Qaadze
