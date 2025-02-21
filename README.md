@@ -20,8 +20,13 @@ Download the Power BI file (.pbix) from this repository.
 Open it using Power BI Desktop.
 Explore the dashboards and insights.
 
-📸 Screenshots
-(Add some screenshots of your dashboards here)
+📸 Screenshots  
+
+### Overview Dashboard  
+![Overview](https://github.com/sofoq/Car-Sales-Project/blob/main/OVERVIEW.png)  
+
+### Details Dashboard  
+![Details](https://github.com/sofoq/Car-Sales-Project/blob/main/DETAILS.png)  
 
 👤 Author
 Sofo Qaadze
