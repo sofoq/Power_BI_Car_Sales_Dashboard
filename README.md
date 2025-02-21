@@ -1,15 +1,18 @@
-🚗 Car Sales Analysis (2022 vs 2023)
-📌 Project Overview
-This Power BI project analyzes car sales data for the years 2022 and 2023, comparing key metrics such as total sales, average price, and the number of cars sold. The dashboards provide Year-to-Date (YTD) insights to help identify trends and patterns in the automotive market.
+# 🚗 Car Sales Analysis (2022 vs 2023)  
 
-📊 Key Dashboards
-The OVERVIEW sheet includes:
+## 📌 Project Overview  
+This Power BI project analyzes car sales data for the years 2022 and 2023, comparing key metrics such as total sales, average price, and the number of cars sold.  
+The dashboards provide Year-to-Date (YTD) insights to help identify trends and patterns in the automotive market.  
 
-📈 YTD Weekly Trend – Tracks sales performance on a weekly basis.
-🚘 YTD Total Sales by Body Style – Compares sales figures based on car body types (SUV, Sedan, etc.).
-🎨 YTD Sales by Color – Analyzes the popularity of car colors in sales.
-🌍 YTD Car Sales by Region – Identifies regional sales distribution.
-🏢 YTD Company-wise Sales Trend – Shows how different car brands performed.
+## 📊 Key Dashboards  
+The **OVERVIEW** sheet includes:  
+
+- 📈 **YTD Weekly Trend** – Tracks sales performance on a weekly basis.  
+- 🚘 **YTD Total Sales by Body Style** – Compares sales figures based on car body types (SUV, Sedan, etc.).  
+- 🎨 **YTD Sales by Color** – Analyzes the popularity of car colors in sales.  
+- 🌍 **YTD Car Sales by Region** – Identifies regional sales distribution.  
+- 🏢 **YTD Company-wise Sales Trend** – Shows how different car brands performed.  
+
 The DETAILS sheet provides in-depth sales information, including breakdowns by model, region, and price.
 
 📂 Dataset
