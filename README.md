@@ -1,4 +1,4 @@
-# 🚗 Car_Sales_Dashboard
+# 🚗 Car Sales Dashboard
 
 ## 📌 Project Overview  
 This Power BI project analyzes car sales data for the years 2022 and 2023, comparing key metrics such as total sales, average price, and the number of cars sold.  
