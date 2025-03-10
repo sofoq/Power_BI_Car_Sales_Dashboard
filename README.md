@@ -7,11 +7,11 @@ The dashboards provide Year-to-Date (YTD) insights to help identify trends and p
 ## 📊 Key Dashboards  
 The **OVERVIEW** sheet includes:  
 
-- 📈 **YTD Weekly Trend** – Tracks sales performance on a weekly basis.  
-- 🚘 **YTD Total Sales by Body Style** – Compares sales figures based on car body types (SUV, Sedan, etc.).  
-- 🎨 **YTD Sales by Color** – Analyzes the popularity of car colors in sales.  
-- 🌍 **YTD Car Sales by Region** – Identifies regional sales distribution.  
-- 🏢 **YTD Company-wise Sales Trend** – Shows how different car brands performed.  
+-  **YTD Weekly Trend** – Tracks sales performance on a weekly basis.  
+-  **YTD Total Sales by Body Style** – Compares sales figures based on car body types (SUV, Sedan, etc.).  
+-  **YTD Sales by Color** – Analyzes the popularity of car colors in sales.  
+-  **YTD Car Sales by Region** – Identifies regional sales distribution.  
+-  **YTD Company-wise Sales Trend** – Shows how different car brands performed.  
 
 The DETAILS sheet provides in-depth sales information, including breakdowns by model, region, and price.
 
