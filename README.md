@@ -4,6 +4,10 @@
 This Power BI project analyzes car sales data for the years 2022 and 2023, comparing key metrics such as total sales, average price, and the number of cars sold.  
 The dashboards provide Year-to-Date (YTD) insights to help identify trends and patterns in the automotive market.  
  
+## 🔗 Live Demo  
+Check out the dashboard here: [Personal Finance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTdhZWY5OGEtM2QzZS00NjE3LTkzMDQtZmZlODZlM2M0Zjc5IiwidCI6ImJkMGQ4ZDNmLTJjODYtNGRhMC04Y2FhLWZlNjFlNzNlNGQ5MyIsImMiOjEwfQ%3D%3D) 🚀  
+
+
 ## 📊 Key Dashboards  
 The **OVERVIEW** sheet includes:  
 
