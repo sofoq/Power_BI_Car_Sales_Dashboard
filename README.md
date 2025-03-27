@@ -32,6 +32,3 @@ The dataset includes car sales records from 2022 and 2023.
 
 
 
-Sofo Qaadze  
-📧 [sqaadze2000@gmail.com](mailto:sqaadze2000@gmail.com)  
-🔗 [LinkedIn: Sofo Qaadze](https://www.linkedin.com/in/sofo-qaadze-ba7895205/)
